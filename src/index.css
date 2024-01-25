@@ -1,13 +1,52 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+h1{
+  text-align: center;
+  font-size: XXX-large;
+  font-family:sans-serif;
+  font-display:inherit;
 }
+.main_div{
+  background-color: rgb(250, 250, 252);
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+}
+input{
+  font-size: x-large;
+  font-family: sans-serif;
+  margin-left: 600px;
+  margin-top: 30px;
+  width: 300px;
+  height: 50px;
+  border-radius: 10px;
+}
+button{
+  margin-left: 700px;
+  margin-top: 30px;
+  width: 100px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: aqua;
+}
+ul{
+  font-size: xx-large;
+  font-family: sans-serif;
+  margin-left: 620px;
+  margin-top: 50px;
+  font-weight: 200;
+}
+b{
+  font-size:large;
+  background-color: rgb(242, 177, 177);
+  background-position: 0cap;
+  width: 80px;
+  height: 100px;
+  border-radius:20%;
+  margin-left: fixed;
+  font-family: sans-serif;
+}
+h2{
+  font-size: xx-large;
+  font-family: sans-serif;
+  margin-left: 400PX;
+  margin-right: 200PX;
+  margin-top:50PX;
+  text-align:justify;
 }
